@@ -5,8 +5,8 @@
 * Pytorch=1.11.0
 * Python=3.8
 # CheckPoints
-* The checkpoint for Gait3D [link]().
-* The checkpoint for GREW [link]().
+* The checkpoint for Gait3D [link](https://pan.baidu.com/s/1nfdcGeCWNOpq2FH62jKSSw?pwd=hxa4).
+* The checkpoint for GREW [link](https://pan.baidu.com/s/1-eejS7eiI-NX44KqOWQ8HQ?pwd=3ftb).
 # Train and Test
 ## Train
 ```
