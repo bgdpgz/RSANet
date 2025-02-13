@@ -245,7 +245,6 @@ def evaluate_Gait3D(data, dataset, metric='euc'):
     msg_mgr = get_msg_mgr()
 
     features, labels, cams, time_seqs = data['embeddings'], data['labels'], data['types'], data['views']
-    np.save('features.npy', features)
 
     import json
 
@@ -263,7 +262,6 @@ def evaluate_Gait3D(data, dataset, metric='euc'):
 
     # probe_features = features[:probe_num]
     probe_features = features[probe_mask]
-    np.save('probe_features.npy', probe_features)
     # gallery_features = features[probe_num:]
     gallery_features = features[~probe_mask]
     # probe_lbls = np.asarray(labels[:probe_num])
