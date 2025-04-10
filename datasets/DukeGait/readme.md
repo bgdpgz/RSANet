@@ -12,4 +12,32 @@ Then you will get Duke-Gait formatted as:
             ......
         ......
 ```
+The dataset comes from RealGait, which borrows data from [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID?tab=readme-ov-file).
+Please cite the following two papers if this dataset helps your research.
+```
+@article{zhang2022realgait,
+  title={RealGait: Gait recognition for person re-identification},
+  author={Zhang, Shaoxiong and Wang, Yunhong and Chai, Tianrui and Li, Annan and Jain, Anil K},
+  journal={arXiv preprint arXiv:2201.04806},
+  year={2022}
+}
+
+@inproceedings{wu2018cvpr_oneshot,
+  title = {Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning},
+  author = {Wu, Yu and Lin, Yutian and Dong, Xuanyi and Yan, Yan and Ouyang, Wanli and Yang, Yi},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2018}
+}
+
+@inproceedings{ristani2016MTMC,
+  title = {Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking},
+  author = {Ristani, Ergys and Solera, Francesco and Zou, Roger and Cucchiara, Rita and Tomasi, Carlo},
+  booktitle = {European Conference on Computer Vision workshop on Benchmarking Multi-Target Tracking},
+  year = {2016}
+}
+```
+## License
+Please refer to the license file for [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID/blob/master/LICENSES/LICENSE_DukeMTMC-VideoReID.txt) and [DukeMTMC](https://github.com/Yu-Wu/DukeMTMC-VideoReID/blob/master/LICENSES/LICENSE_DukeMTMC.txt).
+## Contact
 If any questions, pls contact guozhen_peng@buaa.edu.cn, thank you.
