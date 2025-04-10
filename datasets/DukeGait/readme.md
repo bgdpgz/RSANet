@@ -1,6 +1,6 @@
 # Tutorial for Duke-Gait
 ## Download the Duke-Gait dataset
-Download the dataset (1x64x64 silhouette shape) from the link.
+Download the dataset (1x64x64 silhouette shape) from the [link](https://pan.baidu.com/s/1p5b6R_Q3cKqKtgwCv3-i7g?pwd=3yth).
 Then you will get Duke-Gait formatted as:
 ```
     DATASET_ROOT/
