@@ -1,6 +1,6 @@
 # RSANet: Relative-Sequence Quality Assessment Network for Gait Recognition in the Wild
-[Paper](https://doi.org/10.1016/j.patcog.2024.111219) has been accepted in Pattern Recognition. This is the code for it.
-* You can download Duke-Gait in [link].
+* [Paper](https://doi.org/10.1016/j.patcog.2024.111219) has been accepted in Pattern Recognition. This is the code for it.
+* You can download Duke-Gait in [link](https://github.com/PGZ-Sleepy/RSANet/tree/main/datasets/DukeGait).
 # Operating Environments
 ## Pytorch Environment
 * Pytorch=1.11.0
