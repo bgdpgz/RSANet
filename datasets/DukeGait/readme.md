@@ -13,7 +13,7 @@ Then you will get Duke-Gait formatted as:
         ......
 ```
 The dataset comes from RealGait, which borrows data from [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID?tab=readme-ov-file).
-Please cite the following two papers if this dataset helps your research.
+Please cite the following three papers if this dataset helps your research.
 ```
 @article{zhang2022realgait,
   title={RealGait: Gait recognition for person re-identification},
