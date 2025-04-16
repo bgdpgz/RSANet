@@ -15,6 +15,16 @@ Then you will get BUAA-Duke-Gait formatted as:
 The dataset comes from RealGait, which borrows data from [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID?tab=readme-ov-file).
 Please cite the following three papers if this dataset helps your research.
 ```
+@article{peng2025rsanet,
+  title={RSANet: Relative-sequence quality assessment network for gait recognition in the wild},
+  author={Peng, Guozhen and Wang, Yunhong and Zhang, Shaoxiong and Li, Rui and Zhao, Yuwei and Li, Annan},
+  journal={Pattern Recognition},
+  volume={161},
+  pages={111219},
+  year={2025},
+  publisher={Elsevier}
+}
+
 @article{zhang2022realgait,
   title={RealGait: Gait recognition for person re-identification},
   author={Zhang, Shaoxiong and Wang, Yunhong and Chai, Tianrui and Li, Annan and Jain, Anil K},
