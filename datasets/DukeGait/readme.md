@@ -1,7 +1,7 @@
-# Tutorial for Duke-Gait
-## Download the Duke-Gait dataset
+# Tutorial for BUAA-Duke-Gait
+## Download the BUAA-Duke-Gait dataset
 Download the dataset (1x64x64 silhouette shape) from the [link](https://pan.baidu.com/s/1p5b6R_Q3cKqKtgwCv3-i7g?pwd=3yth).
-Then you will get Duke-Gait formatted as:
+Then you will get BUAA-Duke-Gait formatted as:
 ```
     DATASET_ROOT/
         0001 (subject)/
@@ -15,6 +15,16 @@ Then you will get Duke-Gait formatted as:
 The dataset comes from RealGait, which borrows data from [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID?tab=readme-ov-file).
 Please cite the following three papers if this dataset helps your research.
 ```
+@article{peng2025rsanet,
+  title={RSANet: Relative-sequence quality assessment network for gait recognition in the wild},
+  author={Peng, Guozhen and Wang, Yunhong and Zhang, Shaoxiong and Li, Rui and Zhao, Yuwei and Li, Annan},
+  journal={Pattern Recognition},
+  volume={161},
+  pages={111219},
+  year={2025},
+  publisher={Elsevier}
+}
+
 @article{zhang2022realgait,
   title={RealGait: Gait recognition for person re-identification},
   author={Zhang, Shaoxiong and Wang, Yunhong and Chai, Tianrui and Li, Annan and Jain, Anil K},
